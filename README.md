@@ -17,4 +17,3 @@ Feel free to customize the project to fit your preferences. You can modify the f
 Default Password Length: Adjust the value in the JavaScript code to set the initial password length.
 Character Set: Alter the character sets used for password generation within the JavaScript code.
 
-This project was inspired and made by following GreatStack tutorial.
